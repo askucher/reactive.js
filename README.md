@@ -28,6 +28,7 @@ var func1 = function (input)  {
                    var promise = p.promise()
                    // you can create request and put promise.success as callback here. 
                    // The second function will be executed only after data obtained
+                   //you can put promise.success in callback
                    promise.success({
                             resultField: input.initialField,
                             resultField2: 2
