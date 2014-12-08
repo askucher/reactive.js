@@ -1,11 +1,11 @@
 reactive.js
 ===========
 
-npm install reactive.js
+Reactive multi-threaded pipe framework
 
 ===========
 
-Reactive multi-threaded pipe framework
+npm install reactive.js
 
 See examples below
 
