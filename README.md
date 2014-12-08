@@ -1,4 +1,4 @@
-reactive.js - Multithreaded piping
+Reactive.js - Multithreaded piping
 ===========
 
 npm install reactive.js
