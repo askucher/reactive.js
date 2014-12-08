@@ -1,7 +1,7 @@
 reactive.js
 ===========
 
-MultiThreading framework
+Reactive multi-threaded pipe framework
 
 See examples below
 
