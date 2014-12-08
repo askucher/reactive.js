@@ -1,6 +1,10 @@
 reactive.js
 ===========
 
+npm install reactive.js
+
+===========
+
 Reactive multi-threaded pipe framework
 
 See examples below
