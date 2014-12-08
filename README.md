@@ -1,7 +1,7 @@
 reactive.js
 ===========
 
-The most easiest reactive framework in the world!
+Easiest reactive framework in the world!
 
 See examples below
 
