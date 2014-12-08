@@ -1,0 +1,15 @@
+{
+   "name":"reactive.js",
+   "subdomain":"",
+   "domains":[
+   ],
+   "version":"0.0.1",
+   "private":false,
+   "dependencies":{
+      "prelude-ls":">= 0.0.1"
+   },
+   "main": "reactive.js",
+   "engines":{
+      "node":"0.10.x"
+   }
+}
