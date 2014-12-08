@@ -1,7 +1,7 @@
 reactive.js
 ===========
 
-Easiest reactive framework in the world!
+MultiThreading framework
 
 See examples below
 
