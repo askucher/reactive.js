@@ -7,7 +7,7 @@ See examples below
 
 ===========
 
-'''Javascript
+```Javascript
 
 var p = require ('reactive.js')
 /* 
@@ -84,4 +84,4 @@ var chain3 = [
 p.go (chain3, { initialField: 1 })  //=> 2
 
 
-'''
+```
